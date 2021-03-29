@@ -1,2 +1,2 @@
-# recipes-app
-Using Dev Ed's "Build a Recipe App with React" tutorial
+# react-app
+Using CoderOne's tutorial: https://www.youtube.com/watch?v=K7gRndVwu7g
