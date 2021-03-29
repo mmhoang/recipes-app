@@ -1,15 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import { Homepage } from './containers/homepage';
 
 function App() {
-
-
-
-  return (
-    <div className="App">
-      <h1>Hello React</h1>
-    </div>
-  );
+  return <Homepage/>;
 }
 
 export default App;
